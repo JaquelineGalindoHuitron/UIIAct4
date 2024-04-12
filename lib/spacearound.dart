@@ -9,7 +9,7 @@ class SpaceAround extends StatelessWidget {
     return Scaffold(
         appBar: AppBar(
           title: Text("Fila SpaceAround\nJaqueline Galindo"),
-          backgroundColor: Color(0xffdca7ff),
+          backgroundColor: Color(0xffdba8fd),
         ),
         drawer: DrawerMenu(),
         body: Row(

@@ -68,7 +68,7 @@ class DrawerMenu extends StatelessWidget {
           Positioned(
               bottom: 12.0,
               left: 16.0,
-              child: Text("Compilación Movil\nJaqueline Galindo",
+              child: Text("Compilación Movil\nJaqueline Galindo ",
                   style: TextStyle(
                       color: Color(0xff4b0089),
                       fontSize: 20.0,

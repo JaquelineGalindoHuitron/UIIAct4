@@ -9,7 +9,7 @@ class AxisStart extends StatelessWidget {
     return Scaffold(
         appBar: AppBar(
           title: Text("Fila Start Jaqueline Galindo"),
-          backgroundColor: Color(0xff7ad9ea),
+          backgroundColor: Color(0xff7dd8e8),
         ),
         drawer: DrawerMenu(),
         body: Row(

@@ -9,7 +9,7 @@ class AxisCenter extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: Text("Fila Center\nJaqueline Galindo"),
-        backgroundColor: Color(0xffa1ddec),
+        backgroundColor: Color(0xffa2deed),
       ),
       drawer: DrawerMenu(),
       body: Row(

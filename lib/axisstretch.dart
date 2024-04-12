@@ -9,7 +9,7 @@ class AxisStretch extends StatelessWidget {
     return Scaffold(
         appBar: AppBar(
           title: Text("Fila AxisStretch\nJaqueline Galindo"),
-          backgroundColor: Color(0xfff8b4d4),
+          backgroundColor: Color(0xfff8b6d4),
         ),
         drawer: DrawerMenu(),
         body: Row(

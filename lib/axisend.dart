@@ -9,7 +9,7 @@ class AxisEnd extends StatelessWidget {
     return Scaffold(
         appBar: AppBar(
           title: Text("Fila End Jaqueline Galindo"),
-          backgroundColor: Color(0xff7aead8),
+          backgroundColor: Color(0xff7cdccc),
         ),
         drawer: DrawerMenu(),
         body: Row(

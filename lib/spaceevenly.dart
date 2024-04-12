@@ -9,7 +9,7 @@ class SpaceEvenly extends StatelessWidget {
     return Scaffold(
         appBar: AppBar(
           title: Text("Fila SpaceEvenly\nJaqueline Galindo"),
-          backgroundColor: Color(0xffa8ccf6),
+          backgroundColor: Color(0xffa6cbf6),
         ),
         drawer: DrawerMenu(),
         body: Row(

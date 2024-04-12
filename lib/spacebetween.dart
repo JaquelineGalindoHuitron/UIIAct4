@@ -9,7 +9,7 @@ class SpaceBetWeen extends StatelessWidget {
     return Scaffold(
         appBar: AppBar(
           title: Text("Fila SpaceBetween\nJaqueline Galindo"),
-          backgroundColor: Color(0xffef98eb),
+          backgroundColor: Color(0xfff19ded),
         ),
         drawer: DrawerMenu(),
         body: Row(
